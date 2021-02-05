@@ -29,3 +29,4 @@ review.
 ### Copyright
 
 2021 Git.Training.
+change for stashing operation.
